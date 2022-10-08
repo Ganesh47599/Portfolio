@@ -47,34 +47,12 @@ const Jsprojects = () => {
             <div className="js">
               <div className="row">
                 <div className="col-sm-6">
-                  <a href="https://shoplane-by-pooja.glitch.me" target="_blank">
-                    <img src={pf1} alt="Ecommerce Small Project" />
-                  </a>
-                  <br />
-                  <a
-                    href="https://github.com/poojagarva28/shoplane"
-                    className="btn btn-default d-block github"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
+                
                     Github Code <img src={githubImg} />
-                  </a>
+                 
                 </div>
                 <div className="col-sm-6">
-                  <a
-                    href="https://poojagarva28.github.io/project/"
-                    target="_blank"
-                  >
-                    <img src={pf2} alt="Ecommerce Small Project" />
-                  </a>
-                  <a
-                    href="https://github.com/poojagarva28/project"
-                    className="btn btn-default d-block github"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Github Code <img src={githubImg} />
-                  </a>
+           
                 </div>
               </div>
             </div>

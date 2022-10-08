@@ -10,7 +10,7 @@ const About = () => {
             <div className="aboutcontent">
               <h2>About Me</h2>
               <p>
-                I'm a Front End Developer. I love to solve
+                I'm a Full End Developer. I love to solve
                 design problems, develop new features . My work is mainly focused on
                 frontend-development.  Besides, I also like doing
                 photography and videography,gaming, where I can express my creative
